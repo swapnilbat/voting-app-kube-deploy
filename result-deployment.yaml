@@ -22,6 +22,6 @@ spec:
     spec:
       containers:
         - name: result-app
-          image: kodekloud/examplevotingapp_result:v1
+          image: swapnilbatavale/result-app
           ports:
           - containerPort: 80
